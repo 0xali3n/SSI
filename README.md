@@ -50,7 +50,7 @@ Connecting wallet from mobile for storing the information in Sepolia Testnet .
 
 **Live Link :** [ssi.chinmay.io](https://ssi.chinmay.io)
 <br>
-**Contract :** [https://sepolia.etherscan.io/address/0xa9dc5172145eb8c3e2a09649cce6ca2ba62eef0a]([url](https://sepolia.etherscan.io/address/0xa9dc5172145eb8c3e2a09649cce6ca2ba62eef0a))
+**Contract :** [https://sepolia.etherscan.io/address/0xa9dc5172145eb8c3e2a09649cce6ca2ba62eef0a](https://sepolia.etherscan.io/address/0xa9dc5172145eb8c3e2a09649cce6ca2ba62eef0a)
 
 
 
