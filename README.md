@@ -48,7 +48,8 @@ Connecting wallet from mobile for storing the information in Sepolia Testnet .
 ![image](https://github.com/0xali3n/SSI/assets/72184293/d7974097-6e13-4778-bd3a-9f59d041e658)
 
 
-**Live Link :** [ssi.chinmay.io](ssi.chinmay.io) <br>
+**Live Link :** [ssi.chinmay.io](https://ssi.chinmay.io)
+<br>
 **Contract :** [https://sepolia.etherscan.io/address/0xa9dc5172145eb8c3e2a09649cce6ca2ba62eef0a]([url](https://sepolia.etherscan.io/address/0xa9dc5172145eb8c3e2a09649cce6ca2ba62eef0a))
 
 
